@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="calculatrix" />
+		<Option platforms="Windows;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option platforms="Windows;" />
+				<Option output="bin/Debug/calculatrix" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option platforms="Windows;" />
+				<Option output="bin/Release/calculatrix" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="bibliotecas.h" />
+		<Unit filename="circular.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cramer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="escalar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes_exercicios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes_sistema.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="includes.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="produto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="sarrus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="subtracaosoma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="telas_exercicios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="telas_sistema.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transposta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

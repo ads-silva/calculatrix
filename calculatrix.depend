@@ -1,0 +1,262 @@
+# depslib dependency file v1.0
+1441236345 source:c:\users\adauto\documents\projetoc\trabalho\main.c
+	"includes.h"
+
+1440872446 c:\users\adauto\documents\projetoc\trabalho\funcoes.h
+
+1440859762 c:\users\adauto\documents\projetoc\trabalho\objetos.h
+
+1440690850 c:\users\adauto\documents\projetoc\trabalho\exercicio_aula.h
+
+1440871742 c:\users\adauto\documents\projetoc\trabalho\includes.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio2.h>
+	<unistd.h>
+	<string.h>
+	"funcoes.h"
+	"objetos.h"
+	"cadastroDeAlunosTelas.h"
+	"cadastroDeAlunos.h"
+
+1440868252 c:\users\adauto\documents\projetoc\trabalho\cadastrodealunostelas.h
+
+1441241276 c:\users\adauto\documents\projetoc\trabalho\cadastrodealunos.h
+
+1440872469 source:c:\users\adauto\documents\projetoc\trabalho\resource.rc
+
+1441236345 source:c:\users\adauto\desktop\projetoc\trabalho\main.c
+	"includes.h"
+
+1440871742 c:\users\adauto\desktop\projetoc\trabalho\includes.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio2.h>
+	<unistd.h>
+	<string.h>
+	"funcoes.h"
+	"objetos.h"
+	"cadastroDeAlunosTelas.h"
+	"cadastroDeAlunos.h"
+
+1440872446 c:\users\adauto\desktop\projetoc\trabalho\funcoes.h
+
+1440859762 c:\users\adauto\desktop\projetoc\trabalho\objetos.h
+
+1440868252 c:\users\adauto\desktop\projetoc\trabalho\cadastrodealunostelas.h
+
+1441241276 c:\users\adauto\desktop\projetoc\trabalho\cadastrodealunos.h
+
+1440872469 source:c:\users\adauto\desktop\projetoc\trabalho\resource.rc
+
+1441742425 source:c:\users\adauto\desktop\projetoc\calculatrix\main.c
+	"includes.h"
+
+1441739227 c:\users\adauto\desktop\projetoc\calculatrix\includes.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio2.h>
+	<unistd.h>
+	<string.h>
+	"objetos.h"
+	"funcoes_sistema.h"
+	"telas_sistema.h"
+	"exercicios.h"
+
+1441568190 c:\users\adauto\desktop\projetoc\calculatrix\funcoes.h
+
+1441739490 c:\users\adauto\desktop\projetoc\calculatrix\objetos.h
+
+1441567357 c:\users\adauto\desktop\projetoc\calculatrix\telas.h
+
+1441735249 c:\users\adauto\desktop\projetoc\calculatrix\exercicios.h
+
+1440872469 source:c:\users\adauto\desktop\projetoc\calculatrix\resource.rc
+
+1441568190 c:\users\adauto\desktop\projetoc\calculatrix\funcoessistemas.h
+
+1441734421 c:\users\adauto\desktop\projetoc\calculatrix\telassistema.h
+
+1441568190 c:\users\adauto\desktop\projetoc\calculatrix\funcoessistema.h
+
+1441742702 c:\users\adauto\desktop\projetoc\calculatrix\funcoes_sistema.h
+
+1441742746 c:\users\adauto\desktop\projetoc\calculatrix\telas_sistema.h
+
+1447713704 source:c:\users\adauto\documents\projetoc\calculatrix\main.c
+	"includes.h"
+	"bibliotecas.h"
+
+1446569424 c:\users\adauto\documents\projetoc\calculatrix\includes.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio2.h>
+	<unistd.h>
+	<string.h>
+
+1444842983 c:\users\adauto\documents\projetoc\calculatrix\objetos.h
+
+1446046110 c:\users\adauto\documents\projetoc\calculatrix\funcoes_sistema.h
+
+1446177762 c:\users\adauto\documents\projetoc\calculatrix\telas_sistema.h
+
+1444839381 c:\users\adauto\documents\projetoc\calculatrix\exercicios.h
+
+1446868018 source:c:\users\adauto\documents\projetoc\calculatrix\resource.rc
+
+1446178341 c:\users\adauto\documents\projetoc\calculatrix\funcoes_exercicios.h
+
+1445215762 c:\users\adauto\documents\projetoc\calculatrix\subtracaosoma.h
+
+1445215701 c:\users\adauto\documents\projetoc\calculatrix\transposta.h
+
+1443234827 source:c:\users\adauto\documents\projetoc\calculatrix\exercicios.c
+
+1446224908 source:c:\users\adauto\documents\projetoc\calculatrix\funcoes_exercicios.c
+	"includes.h"
+
+1446513388 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\main.c
+	"includes.h"
+	"bibliotecas.h"
+
+1446487821 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\includes.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio2.h>
+	<unistd.h>
+	<string.h>
+	<dos.h>
+
+1446176682 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\objetos.h
+
+1446172813 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\funcoes_sistema.h
+
+1446178341 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\funcoes_exercicios.h
+
+1446177762 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\telas_sistema.h
+
+1445215762 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\subtracaosoma.h
+
+1445215701 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\transposta.h
+
+1445149011 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\exercicios.h
+
+1440876069 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\resource.rc
+
+1445151190 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\multiplicacao1.h
+
+1445195139 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\multiplicacao2.h
+
+1445215729 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\escalar.h
+
+1445215744 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\produto.h
+
+1446175502 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\cramer.h
+
+1445215744 c:\users\adauto\documents\projetoc\calculatrix\produto.h
+
+1445215729 c:\users\adauto\documents\projetoc\calculatrix\escalar.h
+
+1446175502 c:\users\adauto\documents\projetoc\calculatrix\cramer.h
+
+1445296707 source:c:\users\adauto\documents\projetoc\calculatrix\teste_client.c
+	<windows.h>
+	<winsock.h>
+	<stdio.h>
+	<string.h>
+
+1445296164 source:c:\users\adauto\documents\projetoc\calculatrix\teste_server.c
+	<windows.h>
+	<winsock.h>
+	<stdio.h>
+
+1445304060 c:\users\adauto\documents\projetoc\calculatrix\jogo.h
+
+1445803335 c:\users\adauto\documents\projetoc\calculatrix\crammer3.h
+
+1445803335 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\crammer3.h
+
+1446050606 c:\users\adauto\documents\projetoc\calculatrix\cramer3.h
+
+1446172518 c:\users\adauto\documents\projetoc\calculatrix\sarrus.h
+
+1446172733 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\cramer3.h
+
+1446172518 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\sarrus.h
+
+1446155876 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\circular.h
+
+1446493636 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\funcoes_sistema.c
+	"includes.h"
+
+1446512793 c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\bibliotecas.h
+
+1447713739 source:c:\users\adauto\documents\projetoc\calculatrix\funcoes_sistema.c
+	"includes.h"
+
+1446566072 c:\users\adauto\documents\projetoc\calculatrix\bibliotecas.h
+
+1446155876 c:\users\adauto\documents\projetoc\calculatrix\circular.h
+
+1447884769 source:c:\users\adauto\documents\projetoc\calculatrix\telas_sistema.c
+	"includes.h"
+
+1446566112 source:c:\users\adauto\documents\projetoc\calculatrix\cramer.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\documents\projetoc\calculatrix\escalar.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\documents\projetoc\calculatrix\produto.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\documents\projetoc\calculatrix\sarrus.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\documents\projetoc\calculatrix\subtracaosoma.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\documents\projetoc\calculatrix\transposta.c
+	"includes.h"
+
+1446564346 source:c:\users\adauto\documents\projetoc\calculatrix\circular.c
+	"includes.h"
+
+1446513288 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\circular.c
+	"includes.h"
+
+1446419349 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\cramer.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\escalar.c
+	"includes.h"
+
+1446224908 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\funcoes_exercicios.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\produto.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\sarrus.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\subtracaosoma.c
+	"includes.h"
+
+1446225957 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\transposta.c
+	"includes.h"
+
+1446512689 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\telas_sistema.c
+	"includes.h"
+
+1446512739 source:c:\users\adauto\desktop\2 semestre\trm\projetoc\calculatrix\telas_exercicios.c
+	"includes.h"
+
+1446566083 source:c:\users\adauto\documents\projetoc\calculatrix\telas_exercicios.c
+	"includes.h"
+
