@@ -8,7 +8,7 @@ Result of a college project.
 	<img width="600" height="400" src="https://github.com/ads-silva/calculatrix/blob/master/screenshots/initial.png"/>
 <p>
 <h3 align="left">Login Screen</h3>
-<p>To access the program use any user with the strong password: "123"</p>
+<p>To access the program use any user with the "strong" password: "123"</p>
 <p align="left">
 	<img width="600" height="400" src="https://github.com/ads-silva/calculatrix/blob/master/screenshots/login.png"/>
 <p>
