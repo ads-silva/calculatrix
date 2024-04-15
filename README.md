@@ -1,6 +1,6 @@
 # Calculatrix v2.00 - 2015
 
-Matrix calculations, is a simple program built 6 years ago in C language, in order to demonstrate mathematical calculations involving matrices.
+Matrix calculations, is a simple program built in 2015 in C language, in order to demonstrate mathematical calculations involving matrices.
 Result of a college project.
 
 <h3 align="left">Initial Screen</h3>
